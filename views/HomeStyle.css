@@ -1,0 +1,97 @@
+#introSection{
+    color: white;
+    background-color: rgb(141, 54, 54);
+    height: 300px;
+    font-size: 2rem;
+    /* background: url(babu.png); */
+    background: url(/static/img/backgrounintro.png);
+    
+  
+
+   
+}
+#introSection div{
+        /* border: solid; */
+        align-items: center;
+        justify-content: center;
+        /* padding: 53px; */
+        text-align: center;
+        font-size: 4rem;
+        /* background-color: red; */
+        /* padding-top: 50px; */
+        background: #8b5151;
+        border: solid;
+        width: 64%;
+        margin: 0px 264px;
+        border-radius: 10px;
+
+}
+#introSection p{
+    margin: 20px 20px;
+    /* border: solid; */
+    text-align: center;
+
+}
+#storSection{
+    height: 555px;
+    background-color: rgb(213, 216, 224);
+}
+#storSection h2{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 3rem;
+    
+
+}
+.card{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 30%;
+    margin: 20px 20px;
+    height: 200;
+    padding: 10px;
+    background-color: rgb(223, 206, 180);
+}
+.card h3{
+    text-align: center;
+    color: wheat;
+    background-color: rgb(83, 62, 62);
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.card p{
+    padding-top: 16px;
+}
+
+#clientSection{
+    height: 1200px;
+    background: url(../static/img/backgrounintro.png);
+
+}
+
+#clientSection h2{
+    text-align: center;
+    /* padding-top: 11px; */
+    font-size: 2rem;
+    background-color: #ed9a9a;
+    color: white;
+    width: 50%;
+    text-align: center;
+    margin-left: 335px;
+    padding: 10px;
+    border: solid;
+    border-radius: 10px;
+}
+#Client-box{
+    border: solid;
+    border-radius: 5px;
+    height: 600px;
+    width: 80%;
+    margin: 20px 150px;
+    
+}
+#Client-box img{
+    margin: 20px;
+}
